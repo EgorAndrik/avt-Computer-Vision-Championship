@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>110.jpg</filename>
+	<path>C:\Users\Egor\OneDrive\Рабочий стол\qwerty\python\images\110.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>python</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>31</ymin>
+			<xmax>484</xmax>
+			<ymax>307</ymax>
+		</bndbox>
+	</object>
+</annotation>

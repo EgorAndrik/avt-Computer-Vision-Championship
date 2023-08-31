@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>57.jpg</filename>
+	<path>C:\Users\Egor\OneDrive\Рабочий стол\qwerty\cpp\images\57.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>c++</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>488</xmin>
+			<ymin>188</ymin>
+			<xmax>758</xmax>
+			<ymax>472</ymax>
+		</bndbox>
+	</object>
+</annotation>
