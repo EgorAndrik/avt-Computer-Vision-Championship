@@ -13,9 +13,9 @@ The 96% accuracy solution is presented in folder [folder](Product_quality_contro
 <h3 align="center">Known logo detection</h3>
 
 <h4 align="justify">The image shows the logo. Your task is to write a function that determines in which part of the image the logo is located, and what it is called. Each image features one of the five logos. Possible logos:</h4>
+<div style="text-align: center;"><img src="https://github.com/EgorAndrik/avt-Computer-Vision-Championship/blob/main/ForREADME/logos.png"></div>
 
 <h4 align="justify">Your function should return the name of the logo and the coordinates of the logo's bounding box. Correctly detected and recognized are those logos for which the name is correctly specified and IoU is greater than 0.5.</h4>
-
 <div style="text-align: center;"><img src="https://github.com/EgorAndrik/avt-Computer-Vision-Championship/blob/main/ForREADME/263394831-b9b194c3-671a-4301-ba72-4e4275cd3076.png"></div>
 
 The 100% accuracy solution is presented in folder [folder](Logo_detection).
